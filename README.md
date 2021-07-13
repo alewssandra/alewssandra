@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oiiii 👋 
 
-<!--
-**alewssandra/alewssandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Alessandra 
 
-Here are some ideas to get you started:
+- 💻Técnica em Informática para Internet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudante de Ciência da computação, atualmente cursando o 3° semestre.
+
+- 🤔 Interesse: Java, html, css, Javascript, React...
+ ##
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/alewssandra/)
+ 
+ [
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alewssandra&layout=compact)](https://github.com/alewssandra/github-readme-stats)
+
+
+
+ 
