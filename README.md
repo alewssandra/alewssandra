@@ -5,7 +5,7 @@
 
 
 
-- 💻Técnica em Informática para Internet.
+- 💻 Técnica em Informática para Internet.
 
 - 🌱 Estudante de Ciência da computação, atualmente cursando o 4° semestre.
 
