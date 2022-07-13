@@ -19,14 +19,5 @@
   <a href="https://www.linkedin.com/in/alewssandra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<br>
- <div>
-  <a href="https://github.com/alewssandra">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alewssandra&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-  ##
- 
-  ![Snake animation](https://github.com/alewssandra/alewssandra/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/alewssandra/alewssandra/blob/output/github-contribution-grid-snake.svg)
