@@ -8,7 +8,7 @@
 
 - 💻 Técnica em Informática para Internet.
 
-- 🌱 Estudante de Ciência da computação, atualmente cursando o 5° semestre.
+- 🌱 Estudante de Ciência da computação.
 
 - 👩‍💻 Desenvolvedora na ATPlus.
 
