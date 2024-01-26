@@ -10,7 +10,7 @@
 
 - 🌱 Estudante de Ciência da computação.
 
-- 👩‍💻 Desenvolvedora na ATPlus.
+- 👩‍💻 Desenvolvedora há 6 anos.
 
  ##
  <div> 
